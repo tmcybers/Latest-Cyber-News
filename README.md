@@ -89,7 +89,7 @@ sudo my_script.sh
   
   
   
-# I recommended you have pip installed is requiered depende both Windows and Linux have `pip`
+### Recommended [but not obligatory] **have pip installed**
   
 ```
 sudo apt-get update
