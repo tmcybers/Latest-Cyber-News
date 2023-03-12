@@ -47,7 +47,6 @@
   
  ```
   python3 latestCyberNews.py
-  
  ```
   
 # Main Concept 
