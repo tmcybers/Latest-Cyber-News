@@ -89,7 +89,9 @@ sudo my_script.sh
   
   
   
-### Recommended [but not obligatory] **have pip installed**
+### Recommended [but not obligatory] **have `pip` installed**
+  
+  * Pip is the Python package manager used to install and manage third-party Python packages. On most Linux and Windows distributions, pip is not installed by default, so you will have to install it manually.
   
 ```
 sudo apt-get update
