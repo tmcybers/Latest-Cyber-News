@@ -41,7 +41,7 @@
   ## Script developed and writted on python 3.
   
   
-  # Usage \from any shell, terminal both linux and also Windows/WSL\
+  # Usage \from any shell, terminal, console || Both linux and also Windows/WSL||
   
   * Make sure you have python 3 installed --v ---version
   
