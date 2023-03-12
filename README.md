@@ -33,4 +33,4 @@
 
   `This repo is in Constant Development and Updates`
 
-  `Future changes will be applied both to Appearance and Sources List and to further /Automate the Hacking
+  `Future changes will be applied both to Appearance and Sources List and to further /Automate the Hacking`  
