@@ -40,8 +40,54 @@
 
   `Future changes will be applied both to Appearance and Sources List and to further /Automate the Hacking`  
   
- 
+  ## Script developed and writted on python 3.
   
+  
+  # Usage [from any shell, terminal both linux and laso windows WSL]
+  
+  * Make sure you have python 3 installed
+  
+ ```
+  python3 latestCyberNews.py
+  
+ ```
+  
+# Tip 
+  
+* To be able to run a script from anywhere on Linux, it is recommended that you move it to one of the paths found in the $PATH environment variable.
+
+* The $PATH environment variable contains a list of paths that the system will search for executables when a command is typed in the terminal. So if you put your script in one of the paths listed in $PATH, you can run it from anywhere.
+
+**The most common paths found in $PATH are:**
+```
+/usr/local/bin
+/usr/bin
+/bin
+/usr/sbin
+/sbin
+```
+  
+* To move the script to one of these paths, you can use the command sudo mv followed by the source path of the script and the destination path. For example, if your script is in the /home/user/my_script.sh directory and you want to move it to /usr/local/bin, you can run the following command:
+
+```
+sudo mv /home/username/my_script.sh /usr/local/bin/
+```
+* Once you've moved the script to one of the paths in $PATH, make sure to give it execute permissions with the following command:
+
+```
+sudo chmod +x /path/to/script.sh
+```
+* This way, you can run the script from anywhere on the system with the command:
+
+```
+my_script.sh
+```
+
+```
+sudo my_script.sh
+```
+  
+* depending on the permissions that the script needs to be executed.  
   
   
   
