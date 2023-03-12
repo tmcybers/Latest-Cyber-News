@@ -50,7 +50,7 @@
   
  ```
   
-# Tip 
+# Main Concept 
   
 * To be able to run a script from anywhere on Linux, it is recommended that you move it to one of the paths found in the $PATH environment variable.
 
@@ -98,6 +98,31 @@ sudo apt-get update
 sudo apt-get install python3-pip
 pip3 --version
 ```
+#### Pip en Windows
+  
+Download the get-pip.py file from the official pip website at the following link: https://bootstrap.pypa.io/get-pip.py
+
+Open a command line window (CMD) as administrator. You can do this by searching for CMD in the Start menu, right clicking on the icon and selecting "Run as administrator".
+
+Navigate to the directory where the get-pip.py file is located using the cd command. For example, if the file is in the Downloads folder, you can use the following command:
+
+```
+cd C:\Users\YourUser\Downloads
+```
+  
+Run the following command to install pip:
+
+```
+python get-pip.py
+```
+Verify that pip has been installed correctly by running the following command:
+  
+```
+pip --version
+```
+  
+Thats all.
+  
   
   
   
