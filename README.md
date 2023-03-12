@@ -33,4 +33,4 @@
 
   `This repo is in Constant Development and Updates`
 
-  `Future changes will be applied both to Appearance/Custom and to further /Automate the Hacking and Development work, will include tools and scripts for:`
+  `Future changes will be applied both to Appearance and Sources List and to further /Automate the Hacking
