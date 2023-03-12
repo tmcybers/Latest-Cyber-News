@@ -43,9 +43,9 @@
   ## Script developed and writted on python 3.
   
   
-  # Usage [from any shell, terminal both linux and laso windows WSL]
+  # Usage \from any shell, terminal both linux and also Windows/WSL\
   
-  * Make sure you have python 3 installed
+  * Make sure you have python 3 installed --v ---version
   
  ```
   python3 latestCyberNews.py
@@ -91,13 +91,13 @@ sudo my_script.sh
   
   
   
+# I recommended you have pip installed is requiered depende both Windows and Linux have `pip`
   
-  
-  
-  
-  
-  
-  
+```
+sudo apt-get update
+sudo apt-get install python3-pip
+pip3 --version
+```
   
   
   
