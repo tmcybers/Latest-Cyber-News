@@ -28,9 +28,32 @@
 ---
 ![2023-03-01_12-31](https://user-images.githubusercontent.com/97669969/222127630-ce5bda78-0b41-4f32-8edc-d677e2b7a5d8.png)
 ---
+  
+   <h4 align="center"> # ♛ Stay informed about the latest moves of cybercriminals ♛ </h4>
+  
+  <h4 align="center"> ☠ The best Sources of Spanish News on cybersecurity and hacking ☠  </h4>
 
-# ♛ Stay informed about the latest moves of cybercriminals ♛
+  
+  **Important For You**
 
   `This repo is in Constant Development and Updates`
 
   `Future changes will be applied both to Appearance and Sources List and to further /Automate the Hacking`  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
