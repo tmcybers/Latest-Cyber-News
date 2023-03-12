@@ -27,7 +27,7 @@
   
 ---
   
-   <h4 align="center"> # ♛ Stay informed about the latest moves of cybercriminals ♛ </h4>
+   <h4 align="center">  ♛ Stay informed about the latest moves of cybercriminals ♛ </h4>
   
   <h4 align="center"> ☠ The best Sources of Spanish News on cybersecurity and hacking ☠  </h4>
 
