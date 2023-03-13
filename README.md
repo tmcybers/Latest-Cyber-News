@@ -147,6 +147,9 @@ from bs4 import BeautifulSoup
 ```
 * If the import statement completes successfully, Beautiful Soup is installed and ready to use.
   
-  
-  
+## Proof of Work
+
+![2023-03-12_20-34](https://user-images.githubusercontent.com/97669969/224800950-69dfdd59-da4f-4cb4-a4ef-169e26375d6d.png)
+
+
   
