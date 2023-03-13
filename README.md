@@ -123,7 +123,29 @@ pip --version
   
 Thats all.
   
-  
+## Mandatory, if you are a Developer! 
+
+**If you gonna edit the sources list to add your own you need beautifulsoup library**
+
+* To install Beautiful Soup in Python using pip, follow these steps:
+
+* Open a command prompt or terminal window.
+
+Type the following command to install Beautiful Soup using pip:
+
+```
+pip install beautifulsoup4
+```
+
+
+* Wait for the installation process to complete.
+
+* Verify that Beautiful Soup is installed by opening a Python console and importing the library:
+
+```
+from bs4 import BeautifulSoup
+```
+* If the import statement completes successfully, Beautiful Soup is installed and ready to use.
   
   
   
