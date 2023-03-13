@@ -51,9 +51,9 @@
   
 # Main Concept 
   
-* To be able to run a script from anywhere on Linux, it is recommended that you move it to one of the paths found in the $PATH environment variable.
+* To be able to run a script from anywhere on Linux, it is recommended that you move it to one of the paths found in the `$PATH` environment variable.
 
-* The $PATH environment variable contains a list of paths that the system will search for executables when a command is typed in the terminal. So if you put your script in one of the paths listed in $PATH, you can run it from anywhere.
+* The `$PATH` environment variable contains a list of paths that the system will search for executables when a command is typed in the terminal. So if you put your script in one of the paths listed in `$PATH`, you can run it from anywhere.
 
 **The most common paths found in $PATH are:**
 ```
@@ -64,7 +64,7 @@
 /sbin
 ```
   
-* To move the script to one of these paths, you can use the command sudo mv followed by the source path of the script and the destination path. For example, if your script is in the /home/user/my_script.sh directory and you want to move it to /usr/local/bin, you can run the following command:
+* To move the script to one of these paths, you can use the command `sudo mv` followed by the source path of the script and the destination path. For example, if your script is in the `/home/user/my_script.sh` directory and you want to move it to `/usr/local/bin`, you can run the following command:
 
 ```
 sudo mv /home/username/my_script.sh /usr/local/bin/
