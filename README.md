@@ -149,7 +149,18 @@ from bs4 import BeautifulSoup
   
 ## Proof of Work
 
+  *The Main concept was 3 main\sources and then the script is scrapes on the others, looking for the latest news*
+  
+  * You can click on the news and it will open in your favorite browser, even on the sources and go manual for news.  
+  
 ![2023-03-12_20-34](https://user-images.githubusercontent.com/97669969/224800950-69dfdd59-da4f-4cb4-a4ef-169e26375d6d.png)
+ 
+  
 
+  
+![2023-03-12_20-34_1](https://user-images.githubusercontent.com/97669969/224802406-53121010-e1c1-4c82-8acd-7f196e0bede2.png)
+
+  
+  
 
   
